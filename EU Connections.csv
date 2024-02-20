@@ -1,0 +1,29 @@
+﻿Country,Neighbours
+Sweden,"Germany, Poland, Lithuania, Latvia, Estonia, Finland, Denmark"
+UK,"Ireland, France, Spain, Germany, Netherlands, Belgium, Denmark"
+Ireland,UK
+France,"UK, Spain, Germany, Belgium, Luxembourg, Italy"
+Spain,"UK, France, Portugal, Italy"
+Portugal,Spain
+Germany,"Sweden, UK, France, Netherlands, Belgium, Luxembourg, Poland, Czech Republic, Austria, Denmark"
+Netherlands,"UK, Germany, Belgium"
+Belgium,"UK, France, Germany, Netherlands, Luxembourg"
+Luxembourg,"France, Germany, Belgium"
+Italy,"France, Spain, Austria, Slovenia, Croatia, Greece, Malta"
+Poland,"Sweden, Germany, Czech Republic, Slovakia, Lithuania, Denmark"
+Czech Republic,"Germany, Poland, Austria, Slovakia"
+Austria,"Germany, Italy Czech Republic, Slovakia, Hungary, Slovenia"
+Slovakia,"Poland, Czech Republic, Austria, Hungary"
+Hungary,"Austria, Slovakia, Slovenia, Croatia, Romania"
+Slovenia,"Italy, Austria, Hungary, Croatia"
+Croatia,"Italy, Hungary, Slovenia,"
+Greece,"Italy, Bulgaria, Cyprus"
+Romania,"Hungary, Bulgaria"
+Lithuania,"Sweden, Poland, Latvia"
+Latvia,"Sweden, Lithuania, Estonia"
+Estonia,"Sweden, Latvia, Finland"
+Finland,"Sweden, Estonia"
+Bulgaria,"Greece, Romania"
+Malta,Italy
+Cyprus,Greece
+Denmark,"Sweden, UK, Germany, Poland"
